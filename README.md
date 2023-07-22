@@ -1,1 +1,1 @@
-# medic-curehub
+# CureHubNonProfitTheme.github.io
